@@ -1,0 +1,5 @@
+source,hits,split_leak,same_case,other_case,new
+all_test_year_frauds,261,20,118,2,121
+published,16,10,3,0,3
+ours_recode_new_p_aaer,9.00,5.33,2.67,0,1.00
+ours_recode_p_aaer,8.00,3.67,3.33,0,1.00

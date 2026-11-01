@@ -1,0 +1,6 @@
+item,this_replication,reference,source
+firm_years,146045,146045,Walker (2021)
+fraud_firm_years,964,964,Walker (2021)
+unique_aaers,412,413,Walker (2021)
+fraud_duration_mean_median_p90,2.33 / 2 / 5,2 / 2 / 4,Bao et al. (2020) Sec. 3.3
+fiscal_years,1990-2014,1991-2014,training starts in 1991

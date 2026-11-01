@@ -1,0 +1,16 @@
+setting,scheme,auc,ndcg_at_1pct,hits_mean,hits_min,hits_max,ppv_pooled
+shallow_3000,none,0.7783,0.0541,13.67,13,14,0.0388
+shallow_3000,recode_new_p_aaer,0.7291,0.0279,9.00,7,10,0.0256
+shallow_3000,recode_p_aaer,0.7205,0.0233,8.00,7,9,0.0227
+shallow_3000,drop_p_aaer,0.7226,0.0241,8.33,8,9,0.0237
+shallow_3000,drop_firm,0.7242,0.0278,9.67,9,11,0.0275
+deep_3000,none,0.7798,0.0660,19.33,18,22,0.0549
+deep_3000,recode_new_p_aaer,0.7241,0.0309,9.67,9,10,0.0275
+deep_3000,recode_p_aaer,0.7196,0.0219,7.00,7,7,0.0199
+deep_3000,drop_p_aaer,0.7201,0.0221,7.00,6,8,0.0199
+deep_3000,drop_firm,0.7210,0.0225,7.33,7,8,0.0208
+shallow_400,none,0.7444,0.0407,10.67,10,11,0.0303
+shallow_400,recode_new_p_aaer,0.7108,0.0248,8.33,7,10,0.0237
+shallow_400,recode_p_aaer,0.7066,0.0211,7.33,6,9,0.0208
+shallow_400,drop_p_aaer,0.7080,0.0196,6.67,6,7,0.0189
+shallow_400,drop_firm,0.7092,0.0201,7.33,7,8,0.0208

@@ -1,0 +1,9 @@
+source,hits,hits_serial,hits_new,top1pct_firms_with_prior_fraud
+all_test_year_frauds,261,140,121,
+published,16,13,3,92
+shallow_recode_new_p_aaer,7,6,1,71
+shallow_recode_p_aaer,9,8,1,72
+shallow_drop_firm,9,8,1,71
+deep_recode_new_p_aaer,10,8,2,90
+deep_recode_p_aaer,7,5,2,85
+deep_drop_firm,8,6,2,87

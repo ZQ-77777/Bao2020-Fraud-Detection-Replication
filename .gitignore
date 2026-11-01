@@ -1,0 +1,11 @@
+# Data come from Compustat/AAER via the authors' repository: download, do not redistribute
+data/*
+!data/.gitkeep
+FraudDetection/
+# Run outputs (summaries are archived in results_summary/)
+results/
+results_*/
+!results_summary/
+__pycache__/
+.venv/
+*.log
